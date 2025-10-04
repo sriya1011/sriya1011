@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sriya Sahu
 
-<!--
-**sriya1011/sriya1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc in Data Science and Artificial Intelligence | 2nd Year Student**  
+💡 Passionate about building intelligent systems that make life easier and more human.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Highlights
+-  **ELDERLY HEALTH CARE** – A health & emotion-aware assistant for elderly care using voice commands, Firebase, and ML  
+-  **PERSONAL AI ASSITANT** –  
+
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python, HTML/CSS, SQL  
+**Frameworks & Tools:** Nnumpy & Panda, Seaborn, tkinter, scikit-learn, Firebase, MIT App Inventor, Streamlit  
+**Special Interests:** NLP, Machine Learning, Data Analytics, AI for Social Good  
+
+---
+
+
+### 🌐 Connect with Me
+📧 Email:sriya.sahu2006@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sriya-sahu-a5b97b374)
