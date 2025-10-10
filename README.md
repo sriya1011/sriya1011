@@ -7,7 +7,9 @@
 
 ### 🚀 Projects & Highlights
 -  **ELDERLY HEALTH CARE** – A health & emotion-aware assistant for elderly care using voice commands, Firebase, and ML  
--  **PERSONAL AI ASSITANT** –  
+-  **PERSONAL AI ASSITANT** 
+-  **HOSPITAL RESOURCE OPTIMAZITION** - Streamlit app for hospital forecasting, resource planning, and report generation.
+-  **SOCIAL MEDIA ANALYTICS** 
 
 
 ---
